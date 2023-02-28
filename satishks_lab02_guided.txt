@@ -1,0 +1,2 @@
+Sriradhaa Satishkumar
+I was able to create a vim file and then using what I learned in class, I was also able to make a template of my choice. Once I was done creating this, I moved this file to my desktop. Finally, I opened this file using vim and wrote a summary of what I did and added my name at the top.
